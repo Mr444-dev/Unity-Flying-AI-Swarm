@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7b65a9ae19db66428af696fa22f42ae, type: 3}
+  m_Name: FormationConfig
+  m_EditorClassIdentifier: FlyingAI::FlyingAI.ScriptableObjects.FormationConfig
+  _formationType: 0
+  _formationId: default_formation
+  _horizontalSpacing: 3
+  _verticalSpacing: 2
+  _depthSpacing: 3
+  _circleRadius: 10
+  _vAngle: 45
+  _vDepthOffset: 2
+  _gridColumns: 5
+  _gridRows: 4
+  _diamondWidth: 10
+  _diamondDepth: 15
+  _customSlotPositions: []
+  _repositionSpeed: 5
+  _slotReassignmentDelay: 0.5
+  _rotateTowardsTarget: 1
+  _formationRotationSpeed: 90
+  _dynamicResize: 1
+  _minScaleFactor: 0.7
+  _hasLeader: 1
+  _leaderSlotIndex: 0
+  _leaderSpeedBonus: 1.2

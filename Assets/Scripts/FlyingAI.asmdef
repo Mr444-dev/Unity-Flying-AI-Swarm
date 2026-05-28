@@ -1,0 +1,35 @@
+{
+    "name": "FlyingAI",
+    "rootNamespace": "FlyingAI",
+    "references": [
+        "Unity.Burst",
+        "Unity.Collections",
+        "Unity.Mathematics",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.burst",
+            "expression": "",
+            "define": "UNITY_BURST"
+        },
+        {
+            "name": "com.kyrylokuzyk.primetween",
+            "expression": "",
+            "define": "PRIME_TWEEN"
+        },
+        {
+            "name": "com.demigiant.dotween",
+            "expression": "",
+            "define": "DOTWEEN"
+        }
+    ],
+    "noEngineReferences": false
+}

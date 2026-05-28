@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f20f6c381703894d8d8be2432d68320, type: 3}
+  m_Name: WeaponConfig
+  m_EditorClassIdentifier: FlyingAI::FlyingAI.ScriptableObjects.WeaponConfig
+  _weaponId: default_weapon
+  _displayName: Basic Blaster
+  _firingPattern: 0
+  _projectileType: 0
+  _fireRate: 2
+  _burstDelay: 0.1
+  _burstCount: 3
+  _spreadAngle: 30
+  _spreadCount: 5
+  _projectilePrefab: {fileID: 0}
+  _projectileSpeed: 20
+  _projectileLifetime: 5
+  _projectileScale: 1
+  _homingTurnSpeed: 180
+  _homingLockDelay: 0.5
+  _arcHeight: 5
+  _spiralRadius: 1
+  _spiralFrequency: 5
+  _baseDamage: 10
+  _criticalChance: 0.1
+  _criticalMultiplier: 2
+  _aoeRadius: 0
+  _aoeFalloff:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: -1
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: -1
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _baseAccuracy: 0.9
+  _maxRandomSpread: 5
+  _accuracyDecayPerShot: 0.05
+  _accuracyRecoveryRate: 0.5
+  _muzzleFlashPrefab: {fileID: 0}
+  _impactEffectPrefab: {fileID: 0}
+  _trailColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  _trailWidth: 0.1
