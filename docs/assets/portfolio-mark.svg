@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">🛸 High-Performance Flying AI Swarm System project mark</title><desc id="desc">Original swarm symbol in the portfolio icon system.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1b2838"/><stop offset="1" stop-color="#0b111a"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7EE787"/><stop offset="1" stop-color="#309A73"/></linearGradient></defs>
+<rect x="4" y="4" width="120" height="120" rx="28" fill="url(#bg)" stroke="#344354" stroke-width="2"/>
+<g fill="none" stroke="url(#accent)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"><path d="m42 48 18-13 23 9-4 24-22 9-17-14z"/><circle cx="42" cy="48" r="5" fill="#7EE787"/><circle cx="60" cy="35" r="5" fill="#7EE787"/><circle cx="83" cy="44" r="5" fill="#7EE787"/><circle cx="79" cy="68" r="5" fill="#7EE787"/><circle cx="57" cy="77" r="5" fill="#7EE787"/><circle cx="40" cy="63" r="5" fill="#7EE787"/></g>
+<path d="M34 91h60" stroke="#344354" stroke-width="2"/>
+<text x="64" y="111" text-anchor="middle" fill="#e8eef6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="1.2">HF</text>
+</svg>
